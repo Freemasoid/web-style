@@ -1,0 +1,93 @@
+html, body {
+    height: 100%;
+}
+body {
+    background-image: linear-gradient(to bottom right, black, darkgreen, green);
+}
+
+header {
+    font-family: "Anybody";
+    font-size: 50px;
+    text-transform: uppercase;
+    font-weight: 500;
+    letter-spacing: 3px;
+    margin: 10px;
+    color: goldenrod;
+}
+
+h2 {
+    font-family: "Didact Gothic", sans-serif;
+    margin: 10px;
+}
+h3 {
+    font-family: Montserrat, sans-serif;
+    font-size: 20px;
+}
+p {
+    margin: 10px;
+    font-size: 18px;
+}
+.box {
+    background-image: linear-gradient(beige, rgb(239, 239, 239));
+    border: 10px transparent;
+    margin: 20px auto;
+    padding: 10px;
+    border-radius: 30px;
+    box-shadow: 5px 5px rgb(195, 171, 142);
+}
+
+li {
+    font-size: 18px;
+}
+
+.palette li {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    text-align: center;
+    display: inline-block;
+    width: 15%;
+    margin: 10px auto;
+}
+ul .a {
+    background-color: #E7F2F8;
+}
+ul .b {
+    background-color: #74BDCB;
+}
+ul .c {
+    background-color: #FFA384;
+}
+ul .d {
+    background-color: #EFE7BC;
+}
+
+.font-pannel {
+    display: inline-block;
+    margin: auto 20px;
+}
+
+.regular {
+    font-style: normal;
+}
+.italic {
+    font-style: italic;
+}
+.bold {
+    font-weight: 600;
+}
+
+.anybody {
+    font-family: "Anybody", sans-serif;
+}
+.montserrat {
+    font-family: "Montserrat", sans-serif;
+}
+.source-code-pro {
+    font-family: "Source Code Pro", sans-serif;
+}
+.caveat {
+    font-family: "Caveat", sans-serif;
+}
+.didact-gothic {
+    font-family: "Didact Gothic", sans-serif;
+}
