@@ -3,6 +3,7 @@ html, body {
 }
 body {
     background-image: linear-gradient(to bottom right, black, darkgreen, green);
+    background-attachment: fixed;
 }
 
 header {
