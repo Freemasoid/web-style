@@ -1,9 +1,11 @@
 html, body {
     height: 100%;
+    width: 100%;
 }
 body {
     background-image: linear-gradient(to bottom right, black, darkgreen, green);
     background-attachment: fixed;
+    background-repeat: no-repeat;
 }
 
 header {
