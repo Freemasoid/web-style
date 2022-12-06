@@ -6,6 +6,7 @@ body {
     background-image: linear-gradient(to bottom right, black, darkgreen, green);
     background-attachment: fixed;
     background-repeat: no-repeat;
+    margin: 0;
 }
 
 header {
